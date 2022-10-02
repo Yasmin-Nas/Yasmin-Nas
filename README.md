@@ -1,7 +1,6 @@
-### Olá! Eu sou a Yasmin Santos, estudante de programação e desenvolvimento de sistemas
-
+### Olá! Eu sou a Yasmin Santos
 <div align="center">
-  <a href="https://github.com/Yasmin-Nas">
+  <a href="https://github.com/Yasm-Nas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasmin-Nas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Nas&layout=compact&langs_count=7&theme=dark"/>
 </div>
